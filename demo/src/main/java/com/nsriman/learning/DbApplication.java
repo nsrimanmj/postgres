@@ -1,4 +1,4 @@
-package com.nsriman.learning.demo;
+package com.nsriman.learning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
