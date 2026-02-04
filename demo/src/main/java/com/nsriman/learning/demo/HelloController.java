@@ -1,4 +1,4 @@
-package com.nsriman.backend;
+package com.nsriman.learning.demo;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
